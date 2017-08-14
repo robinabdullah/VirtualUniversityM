@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1416651569 source:h:\using soft\programming\programmings\c++\new folder\vues account\main.cpp
+	"vues_db.h"
+
+1416754085 h:\using soft\programming\programmings\c++\new folder\vues account\vues.h
+	<iostream>
+	<conio.h>
+	<string>
+	<fstream>
+	<windows.h>
+
+1416756253 source:h:\using soft\programming\programmings\c++\new folder\vues account\vues.cpp
+	"vues.h"
+
+1416752936 h:\using soft\programming\programmings\c++\new folder\vues account\vues_db.h
+	"vues.h"
+
+1416757191 source:h:\using soft\programming\programmings\c++\new folder\vues account\vues_db.cpp
+	"vues_db.h"
+
+1416651569 source:h:\using soft\dropbox\yahoo! mail\programmings\c++\new folder\vues account\main.cpp
+	"vues_db.h"
+
+1416752936 h:\using soft\dropbox\yahoo! mail\programmings\c++\new folder\vues account\vues_db.h
+	"vues.h"
+
+1416754085 h:\using soft\dropbox\yahoo! mail\programmings\c++\new folder\vues account\vues.h
+	<iostream>
+	<conio.h>
+	<string>
+	<fstream>
+	<windows.h>
+
+1416756253 source:h:\using soft\dropbox\yahoo! mail\programmings\c++\new folder\vues account\vues.cpp
+	"vues.h"
+
+1416759800 source:h:\using soft\dropbox\yahoo! mail\programmings\c++\new folder\vues account\vues_db.cpp
+	"vues_db.h"
+
+1417368001 source:c:\users\robin\desktop\vues account\main.cpp
+	"vues_db.h"
+
+1417365670 c:\users\robin\desktop\vues account\vues_db.h
+	"vues.h"
+
+1417104831 c:\users\robin\desktop\vues account\vues.h
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<string>
+	<fstream>
+	<windows.h>
+
+1417364790 source:c:\users\robin\desktop\vues account\vues.cpp
+	"vues.h"
+
+1417367996 source:c:\users\robin\desktop\vues account\vues_db.cpp
+	"vues_db.h"
+
+1417795611 source:c:\users\robin\desktop\vues account - version 2\main.cpp
+	"vues_db.h"
+
+1417806360 c:\users\robin\desktop\vues account - version 2\vues_db.h
+	"vues.h"
+
+1417714119 c:\users\robin\desktop\vues account - version 2\vues.h
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<string>
+	<fstream>
+	<windows.h>
+	<vector>
+
+1417364790 source:c:\users\robin\desktop\vues account - version 2\vues.cpp
+	"vues.h"
+
+1417795925 source:c:\users\robin\desktop\vues account - version 2\vues_db.cpp
+	"vues_db.h"
+
+1417876563 source:c:\users\robin\desktop\vues account - version 3\main.cpp
+	"vues_db.h"
+
+1417955941 c:\users\robin\desktop\vues account - version 3\vues_db.h
+	"vues.h"
+
+1417956179 c:\users\robin\desktop\vues account - version 3\vues.h
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<string>
+	<cctype>
+	<locale>
+	<algorithm>
+	<fstream>
+	<windows.h>
+	<vector>
+
+1417876563 source:c:\users\robin\desktop\vues account - version 3\vues.cpp
+	"vues.h"
+
+1417955950 source:c:\users\robin\desktop\vues account - version 3\vues_db.cpp
+	"vues_db.h"
+
+1417970846 source:c:\users\robin\desktop\vues account - version 4\main.cpp
+	"vues_db.h"
+
+1417971085 c:\users\robin\desktop\vues account - version 4\vues_db.h
+	"vues.h"
+
+1417970580 c:\users\robin\desktop\vues account - version 4\vues.h
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<string>
+	<cctype>
+	<locale>
+	<algorithm>
+	<fstream>
+	<windows.h>
+	<map>
+
+1417969269 source:c:\users\robin\desktop\vues account - version 4\vues.cpp
+	"vues.h"
+
+1417970350 source:c:\users\robin\desktop\vues account - version 4\vues_db.cpp
+	"vues_db.h"
+	"interface.cpp"
+
+1417970594 c:\users\robin\desktop\vues account - version 4\interface.cpp
+	"vues.h"
+
+1417970777 source:c:\users\robin\desktop\vues account - version 4\interface.cpp
+	"vues_db.h"
+

@@ -1,0 +1,10 @@
+14-25860-1	Farsa Rahman Xian	CSE	3.55	3	4th	36
+14-25861-1	Sad Sharar Rahman	EEE	3.31	3	4th	33
+14-25862-1	Abdul Rimon Hasan	CSSE	3.19	3	4th	36
+14-25863-1	Tauhidul Islam Tuhin	CSE	3.14	3	3rd	23
+14-25864-1	Yousuf Khan Ridoy	CSSE	3.68	3	3nd	24
+14-25865-1	Abdul Mak Mashuk	CSE	3.88	3	2nd	22
+14-25866-1	Zahir Nafis Sadik	CSSE	3.55	3	1st	13
+14-25884-1	MKS Abrarul Huda	CSE	3.5	30	1st	13
+14-25886-1	Zubayer Alam Shuvo	CSE	3.99	3	2nd	25
+14-25907-1	Abdullah Saleh Robin	CSE	3.94	3	3rd	22
